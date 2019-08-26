@@ -14,12 +14,7 @@
     </context-param>
     <context-param>
         <param-name>primefaces.THEME</param-name>
-        <!-- UAT/PROD -->
         <param-value>redmond</param-value>
-        <!-- DEV 
-        <param-value>sunny</param-value>
-        -->
-        <!-- <param-value>#{userPreferenceMGR.theme}</param-value> -->
     </context-param>
     <context-param>
         <param-name>primefaces.FONT_AWESOME</param-name>
